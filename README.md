@@ -1,5 +1,6 @@
-## Hi there my name is Ruben an  <a href="https://www.linkedin.com/in/ruben-issael-almaguer-84a58631a/">IT Professional</a></h1>
+<h1> Hi there my name is Ruben an  <a href="https://www.linkedin.com/in/ruben-issael-almaguer-84a58631a/">IT Professional</a></h1>
 
+<h2> Information Technology Projects </h2>
 <!--
 **Ruissal/ruissal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
