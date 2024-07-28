@@ -10,7 +10,7 @@
 <h2>Connect with me:</h2>
 [<img align="left" alt="Ruben-Issael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/ruben-issael-almaguer-84a58631a/
+[linkedin]: https://www.linkedin.com/in/ruben-issael-almaguer-84a58631a
 
 <!--
 **Ruissal/ruissal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Idk whos reading this but hello! I have watched Stargate SG1 twice through
 -->
