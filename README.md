@@ -4,9 +4,10 @@
 
 -<b> OsTicket </b>
 
-- <b>osticket: Prerequisites and Installation</b>
+- [<b>osticket: Prereqs and Installation</b>](https://github.com/Ruissal/osticket-install)
  -
 -<b> Microsoft Azure </b>
+- [Basic Setups for Azure](https://github.com/Ruissal/Azure-Basics)
  -
 -<b> Active Directory </b>
  -
