@@ -2,19 +2,21 @@
 
 <h2> Information Technology Projects </h2>
 
--<b> Microsoft Azure </b>
-- [Basic Setups for Azure](https://github.com/Ruissal/Azure-Basics)
+<h3><b> Microsoft Azure </b></h3>
 
-- <h3><b> OsTicket </b></h3>  
+  - [Basic Setups for Azure](https://.github.com/Ruissal/Azure-Basics)
+
+<h3><b> OsTicket </b></h3>  
 
   - [Prerequisites and Installation](https://github.com/Ruissal/osticket-install)
   - Setup and Configuration
   - Examples of Ticket Resolution
 
--<b> Active Directory </b>
- - Installation on Windows Server
- - Setup and Configuration
- - Examples of 
+<h3><b> Active Directory </b></h3>
+
+  - Installation on Windows Server
+  - Setup and Configuration
+  - Examples of managing users
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Ruben-Issael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
