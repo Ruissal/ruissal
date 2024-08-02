@@ -2,15 +2,19 @@
 
 <h2> Information Technology Projects </h2>
 
-- <b> OsTicket </b> 
-
-  -[<b>osticket: Prereqs and Installation</b>](https://github.com/Ruissal/osticket-install)
- -
 -<b> Microsoft Azure </b>
 - [Basic Setups for Azure](https://github.com/Ruissal/Azure-Basics)
- -
+
+- <h3><b> OsTicket </b></h3>  
+
+  - [Prerequisites and Installation](https://github.com/Ruissal/osticket-install)
+  - Setup and Configuration
+  - Examples of Ticket Resolution
+
 -<b> Active Directory </b>
- -
+ - Installation on Windows Server
+ - Setup and Configuration
+ - Examples of 
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Ruben-Issael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
