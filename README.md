@@ -4,7 +4,7 @@
 
 <h3><b> Microsoft Azure </b></h3>
 
-  - [Basic Setups for Azure](https://.github.com/Ruissal/Azure-Basics)
+  - [Basic Setups for Azure](https://github.com/Ruissal/Azure-Basics)
 
 <h3><b> OsTicket </b></h3>  
 
