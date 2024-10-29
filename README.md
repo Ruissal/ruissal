@@ -9,14 +9,14 @@
 <h3><b> OsTicket </b></h3>  
 
   - [Prerequisites and Installation](https://github.com/Ruissal/osticket-install)
-  - Setup and Configuration
-  - Examples of Ticket Resolution
+  - [Setup and Configuration](https://github.com/Ruissal/osticket-post-config)
+  - [Examples of Ticket Resolution](https://github.com/Ruissal/osTicket-Examples)
 
 <h3><b> Active Directory </b></h3>
 
-  - Installation on Windows Server
-  - Setup and Configuration
-  - Examples of managing users
+  - [Installation on Windows Server](https://github.com/Ruissal/Installing-Active-Directory)
+  - [Setup and Configuration](https://github.com/Ruissal/Setting-up-Active-Directory)
+  - [Examples of managing users](https://github.com/Ruissal/Active-Directory-Examples)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Ruben-Issael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
